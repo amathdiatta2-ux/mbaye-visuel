@@ -16,14 +16,28 @@
 
 const GALLERY_DATA = [
   // ---- Mariages ----
-  { src: "images/portfolio/mariages/mariage-01.jpg", category: "mariages", alt: "Mariée voilée lors d'une cérémonie, Mbaye Visuel", size: "" },
-  { src: "images/portfolio/mariages/mariage-02.jpg", category: "mariages", alt: "Photographie de mariage, cérémonie religieuse, Mbaye Visuel", size: "" },
-  { src: "images/portfolio/mariages/mariage-03.jpg", category: "mariages", alt: "Portrait de mariée en robe dorée, Mbaye Visuel", size: "tall" },
+    // ---- Mariages ----
+  { src: "images/portfolio/mariages/mariage-01.jpg", category: "mariages", alt: "Mariée en robe blanche et hijab, bouquet de roses rouges, jardin tropical, Mbaye Visuel", size: "" },
+  { src: "images/portfolio/mariages/mariage-02.jpg", category: "mariages", alt: "Mariée souriante tenant un bouquet noir et rouge, entourée de deux femmes, Mbaye Visuel", size: "" },
+  { src: "images/portfolio/mariages/mariage-03.jpg", category: "mariages", alt: "Mariée de profil au bord de l'eau, bouquet de roses rouges, Mbaye Visuel", size: "" },
   { src: "images/portfolio/mariages/mariage-04.jpg", category: "mariages", alt: "Mariée souriante, photographie de mariage Ziguinchor", size: "" },
-  { src: "images/portfolio/mariages/mariage-05.jpg", category: "mariages", alt: "Détails de mariage traditionnel sénégalais, Mbaye Visuel", size: "" },
-  { src: "images/portfolio/mariages/mariage-06.jpg", category: "mariages", alt: "Mariée en robe blanche, portrait, Mbaye Visuel", size: "" },
+  { src: "images/portfolio/mariages/mariage-05.jpg", category: "mariages", alt: "Mariée souriante, bras ouverts devant une balustrade au bord de l'eau, Mbaye Visuel", size: "" },
+  { src: "images/portfolio/mariages/mariage-06.jpg", category: "mariages", alt: "Mariée au bord de l'eau, main décorée au henné levée, Mbaye Visuel", size: "" },
   { src: "images/portfolio/mariages/mariage-07.jpg", category: "mariages", alt: "Mains ornées de henné, mariage, Mbaye Visuel", size: "" },
-  { src: "images/portfolio/mariages/mariage-08.jpg", category: "mariages", alt: "Cérémonie de mariage en extérieur, Mbaye Visuel", size: "wide" },
+  { src: "images/portfolio/mariages/mariage-08.jpg", category: "mariages", alt: "Mariée souriante sur un escalier en briques, longue traîne, bouquet de roses rouges, Mbaye Visuel", size: "" },
+  { src: "images/portfolio/mariages/mariage-09.jpg", category: "mariages", alt: "Mariée souriante aux mains décorées au henné, devant une fenêtre en bois, Mbaye Visuel", size: "" },
+  { src: "images/portfolio/mariages/mariage-10.jpg", category: "mariages", alt: "Mariée souriante avec un bouquet de roses rouges, main levée, Mbaye Visuel", size: "" },
+  { src: "images/portfolio/mariages/mariage-11.jpg", category: "mariages", alt: "Mariée de profil, bouquet de roses rouges et longue traîne dans le vent, Mbaye Visuel", size: "" },
+  { src: "images/portfolio/mariages/mariage-12.jpg", category: "mariages", alt: "Portrait de mariée dans la verdure, main au henné levée, Mbaye Visuel", size: "" },
+  { src: "images/portfolio/mariages/mariage-13.jpg", category: "mariages", alt: "Mariée souriante tenant un bouquet noir et rouge sous un feuillage, Mbaye Visuel", size: "" },
+  { src: "images/portfolio/mariages/mariage-14.jpg", category: "mariages", alt: "Mariée les yeux fermés, bouquet serré contre elle, Mbaye Visuel", size: "" },
+  { src: "images/portfolio/mariages/mariage-15.jpg", category: "mariages", alt: "Mariée souriante avec un bouquet de roses rouges dans un jardin, Mbaye Visuel", size: "" },
+  { src: "images/portfolio/mariages/mariage-16.jpg", category: "mariages", alt: "Deux femmes en robes bleu marine à motifs et hijab bleu, au bord de l'eau, Mbaye Visuel", size: "" },
+  { src: "images/portfolio/mariages/mariage-17.jpg", category: "mariages", alt: "Deux femmes en robes bleu marine à motifs, appuyées à une rambarde, Mbaye Visuel", size: "" },
+  { src: "images/portfolio/mariages/mariage-18.jpg", category: "mariages", alt: "Mariée mains au henné levées, entourée de deux femmes en robes bleues, devant une villa, Mbaye Visuel", size: "" },
+  { src: "images/portfolio/mariages/mariage-19.jpg", category: "mariages", alt: "Mariée et deux femmes en robes bleues qui rient sur la pelouse, Mbaye Visuel", size: "" },
+  { src: "images/portfolio/mariages/mariage-20.jpg", category: "mariages", alt: "Mariée et une femme en robe bleue qui rient, bouquet de roses rouges, Mbaye Visuel", size: "" },
+  { src: "images/portfolio/mariages/mariage-21.jpg", category: "mariages", alt: "Mariée de dos entre deux femmes en robes bleues, près d'un escalier, Mbaye Visuel", size: "" },
 
   // ---- Traditions & cérémonies ----
   { src: "images/portfolio/traditions/tradition-01.jpg", category: "traditions", alt: "Cérémonie traditionnelle sénégalaise, main levée, Mbaye Visuel", size: "" },
